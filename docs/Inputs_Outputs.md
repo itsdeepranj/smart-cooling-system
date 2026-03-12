@@ -13,4 +13,6 @@
 | Outputs | Inverter Communication | CAN |
 | Outputs | DC-DC Converter Communication | CAN |
 | Outputs | Alarm/Buzzer | Digital |
+| Inputs | Key Position 2 | Digital |
+| Inputs | Key Position 3 | Digital |
 

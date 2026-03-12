@@ -1,5 +1,15 @@
 # System Requirements
 
+## Operating Modes
+
+The system shall operating using a three position key switch.
+
+| Key Position | Mode | Description |
+| --- | --- | --- | --- |
+| 0 | OFF | System powered down |
+| 1 | INIT/IGNITION | Contollers intialized and sensors are monitored |
+| 2 | RUN/ACC | Colling system operates normally |
+
 ## Thermal Requirements
 
 1. The system should maintain inverter and DC-DC controller temperature below 85°C during 

@@ -1,13 +1,5 @@
 # Operating Modes
 
-The system should be operate using a three-position key switch.
-
-| Key Position | Mode | Description |
-| --- | --- | --- | --- |
-| 0 | OFF | System powered down |
-| 1 | INIT/IGNITION | Contollers intialized and sensors are monitored |
-| 2 | RUN/ACC | Colling system operates normally |
-
 ## Non-operation Modes
 
 ### OFF MODE
